@@ -1,8 +1,8 @@
 # react-fancy-visa-card
 React js implementation for visa credit card  -  Payment Form
 
-![picture](./example-pics/ss1.png)
 ![picture](./example-pics/ss2.png)
+![picture](./example-pics/ss1.png)
 
 <h1>How to use it ? </h1>
 
