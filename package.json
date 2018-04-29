@@ -1,0 +1,37 @@
+{
+  "name": "react-fancy-visa-card",
+  "version": "0.0.5",
+  "description": "Fill out the credit card details with visa branded card.",
+  "main": "build/index.js",
+  "peerDependencies": {
+    "react": "^15.5.4"
+  },
+  "dependencies": {
+    "babel-preset-es2015": "^6.24.1",
+    "lodash": "^4.17.10",
+    "react": "^15.5.4",
+    "react-svg-loader": "^2.1.0",
+    "style-loader": "^0.21.0",
+    "webpack": "^2.6.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "webpack --watch",
+    "build": "webpack"
+  },
+  "author": {
+    "name": "Ibraheem Abu Kaff",
+    "email": "eng.ibraheemabukaff@gmail.com"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.24.1",
+    "babel-core": "^6.24.1",
+    "babel-loader": "^7.0.0",
+    "babel-plugin-transform-object-rest-spread": "^6.23.0",
+    "babel-plugin-transform-react-jsx": "^6.24.1",
+    "babel-preset-env": "^1.5.1",
+    "babel-preset-stage-0": "^6.24.1",
+    "css-loader": "^0.28.11",
+    "svg-inline-loader": "^0.8.0"
+  }
+}
