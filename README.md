@@ -33,8 +33,8 @@ export default App;
 ```
 
 <p align="center">
-  <img src="https://www.dropbox.com/s/ruo6x2iu3b49yoa/ss2.png?dl=1" width="350"/>
-  <img src="https://www.dropbox.com/s/0170o689uqsk552/ss1.png?dl=1" width="350"/>
+  <img src="https://www.dropbox.com/s/ruo6x2iu3b49yoa/ss2.png" width="350"/>
+  <img src="https://www.dropbox.com/s/0170o689uqsk552/ss1.png" width="350"/>
 </p>
 
 
