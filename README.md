@@ -2,9 +2,9 @@
 React js implementation for visa credit card  -  Payment Form
 
 <h2>How to install ?</h2> 
-``
+```
 npm i react-fancy-visa-card
-``
+```
 
 <br />
 <br />
