@@ -46,7 +46,19 @@ class App extends Component {
 export default App;
 ```
 
+<h1>Available options to pass :</h1>
 
+
+```
+<VisaCard onSubmit={this.pay} 
+ 
+ frontCardColor="red"
+ backCardColor="black"
+ submitBtnColor="white"
+ 
+ />
+
+```
 
 
 

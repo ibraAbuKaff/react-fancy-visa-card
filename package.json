@@ -1,6 +1,6 @@
 {
   "name": "react-fancy-visa-card",
-  "version": "0.0.7",
+  "version": "0.0.11",
   "description": "Fill out the credit card details with visa branded card.",
   "main": "build/index.js",
   "peerDependencies": {
@@ -31,6 +31,12 @@
   "author": {
     "name": "Ibraheem Abu Kaff",
     "email": "eng.ibraheemabukaff@gmail.com"
+  },
+  "homepage": "https://github.com/ibraAbuKaff/react-fancy-visa-card",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ibraAbuKaff/react-fancy-visa-card"
   },
   "devDependencies": {
     "babel-cli": "^6.24.1",

@@ -5,14 +5,6 @@ import _ from "lodash";
 
 class VisaCreditCard extends React.Component {
 
-    //readme
-    //add licence
-    //explanation, props options
-    //demo app online
-    //gif
-    //github
-    //link to the original library
-
     constructor(props) {
         super(props);
 
