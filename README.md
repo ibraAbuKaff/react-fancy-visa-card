@@ -29,8 +29,9 @@ class App extends Component {
 export default App;
 ```
 
-#+html: <p align="center"><img src="https://imgur.com/a/a8LCn0x" /></p>
-#+html: <p align="center"><img src="https://imgur.com/a/mdU2Qdd" /></p>
+[alt credit card front](https://imgur.com/a/a8LCn0x)
+[alt credit card back](https://imgur.com/a/mdU2Qdd)
+
 
 
 
