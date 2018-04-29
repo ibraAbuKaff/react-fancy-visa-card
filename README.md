@@ -5,8 +5,6 @@ How to use it?
 
 ```
 import React, {Component} from "react";
-import "./App.css";
-//import {VisaCreditCard} from "react-fancy-component";
 import {VisaCreditCard as VisaCard} from "react-fancy-visa-card";
 
 
@@ -29,12 +27,13 @@ class App extends Component {
 }
 
 export default App;
-
 ```
 
+[alt credit card front](https://imgur.com/a/a8LCn0x)
+[alt credit card back](https://imgur.com/a/mdU2Qdd)
 
-![alt CreditCard Front](https://www.dropbox.com/s/ruo6x2iu3b49yoa/ss2.png?dl=1)
 
-![alt CreditCard Back](https://www.dropbox.com/s/0170o689uqsk552/ss1.png?dl=1)
+
+
 
 
