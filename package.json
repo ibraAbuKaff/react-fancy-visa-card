@@ -1,6 +1,6 @@
 {
   "name": "react-fancy-visa-card",
-  "version": "0.0.16",
+  "version": "1.0.0",
   "description": "React js implementation for visa credit card - Payment Form",
   "main": "build/index.js",
   "peerDependencies": {
