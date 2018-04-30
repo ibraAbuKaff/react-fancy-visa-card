@@ -63,6 +63,13 @@ export default App;
 ```
 
 
+```
+<VisaCard frontCardColor="linear-gradient(50deg, #f3c680, hsla(179,54%,76%,1))" />
+
+```
+![](./example-pics/ss3.png)
+
+
 
 
 
