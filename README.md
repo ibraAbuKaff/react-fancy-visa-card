@@ -55,6 +55,8 @@ export default App;
  frontCardColor="red"
  backCardColor="black"
  submitBtnColor="white"
+ submitBtnTxt="Pay $350"
+ 
  
  />
 

@@ -1,6 +1,6 @@
 {
   "name": "react-fancy-visa-card",
-  "version": "0.0.11",
+  "version": "0.0.14",
   "description": "Fill out the credit card details with visa branded card.",
   "main": "build/index.js",
   "peerDependencies": {

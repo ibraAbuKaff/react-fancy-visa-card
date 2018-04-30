@@ -22,6 +22,7 @@ class VisaCreditCard extends React.Component {
             frontCardColor: props.frontCardColor || "",
             backCardColor: props.backCardColor || "",
             submitBtnColor: props.submitBtnColor || "",
+            submitBtnTxt : props.submitBtnTxt || "",
         };
 
         //event handlers
@@ -206,7 +207,7 @@ class VisaCreditCard extends React.Component {
                         <label htmlFor="card-ccv">CCV</label>
                         <input onChange={this.cvvOnChange} onBlur={this.cvvOnBlur} type="text" id="card-ccv" maxLength="3"/>
                     </fieldset>
-                    <button className="btn" style={{background: this.state.submitBtnColor}}><i className="fa fa-lock"></i>Pay now</button>
+                    <button className="btn" style={{background: this.state.submitBtnColor}}><i className="fa fa-lock"></i>{(this.state.submitBtnTxt!=="") ? this.state.submitBtnTxt   : 'Pay now'}</button>
                 </form>
             </div>
 
