@@ -21,7 +21,7 @@
     "react": "^15.5.4",
     "react-svg-loader": "^2.1.0",
     "style-loader": "^0.21.0",
-    "webpack": "^2.6.1"
+    "webpack": "^5.74.0"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
